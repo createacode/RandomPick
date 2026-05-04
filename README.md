@@ -1,7 +1,9 @@
 # RandomPick
 一个完成度很高的随机抽选工具，从一堆人里面抽取一个或几个，提取微秒（小数点后六位）作为随机数种子。
 
+![界面截图-抽选](https://github.com/createacode/RandomPick/blob/main/tool%20(2).png)
 
+![界面截图-数据统计](https://github.com/createacode/RandomPick/blob/main/tool%20(4).png)
 
 
 # 随机抽选工具（RandomPick）开发文档
