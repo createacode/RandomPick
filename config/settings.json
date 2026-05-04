@@ -1,0 +1,32 @@
+{
+  "last_photo_dir": "C:\\Users\\iflc",
+  "card_show_nickname": true,
+  "card_show_realname": false,
+  "last_show_nickname": true,
+  "last_show_realname": false,
+  "draw_show_nickname": true,
+  "draw_show_realname": false,
+  "log_panel_visible": true,
+  "draw_k": 1,
+  "draw_repeat": 10,
+  "show_title_copyright": true,
+  "auto_close_single_enabled": false,
+  "auto_close_single_seconds": 2.0,
+  "auto_close_multi_enabled": true,
+  "auto_close_multi_seconds": 0.5,
+  "anim_speed_front": 40,
+  "anim_speed_mid": 80,
+  "anim_speed_back": 120,
+  "result_display_immediate": false,
+  "show_history_list": true,
+  "show_process_log": true,
+  "main_splitter_sizes": [
+    800,
+    400
+  ],
+  "right_splitter_sizes": [
+    142,
+    467
+  ],
+  "window_geometry": "01d9d0cb0003000000000049000000380000054f000003920000004a000000570000054e00000391000000000000000007800000004a000000570000054e00000391"
+}
